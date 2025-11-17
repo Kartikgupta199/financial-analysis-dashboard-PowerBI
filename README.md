@@ -1,6 +1,6 @@
 # 📊 Financial Analysis Dashboard
 
-##📖 Overview
+## 📖 Overview
 
 A Power BI dashboard that analyzes sales, profit, orders, discounts, and product performance across countries, channels, and customer segments. The dashboard highlights key financial KPIs and supports data-driven business decisions.
 
